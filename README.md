@@ -7,7 +7,7 @@
 
 <h2> 🌱 Certifications</h2>
 
-- Cybersecurity Consultant Internship(_)
+- Cybersecurity Consultant Internship (https://imgur.com/a/KDwe5CO)
 - Security + (_)
 - ITIL 4 Foundations (Expected 9/2024)
 
