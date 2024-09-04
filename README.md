@@ -17,8 +17,7 @@
 
 
 <h2> 🤳 Connect with me:</h2>
-[youtube]: https://www.youtube.com/@kortneymilien
 [linkedin]: https://www.linkedin.com/in/kortneymilien/
-
+[youtube]: https://www.youtube.com/@kortneymilien
 
 -->
