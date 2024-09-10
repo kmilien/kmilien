@@ -1,15 +1,17 @@
 <h1>Hi, I'm Kortney! </h1>
+Mastering GRC & Cybersecurity, One Commit at a Time
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 GRC Projects:</h2>
 
-- <b>Active Directory Home Lab</b>
-  - https://github.com/kmilien/ActiveDirectory
+- <b>Incident Response Plan</b>
+- <b>Third Party Risk Management</b>
+- <b>Information Security Policies</b>
 
-<h2> 🌱 Certifications</h2>
+<h2> 🌱 Certifications & Accomplishments</h2>
 
 - Cybersecurity Consultant Internship (https://imgur.com/a/my2d7Ve)
 - Security + (https://imgur.com/a/KDwe5CO)
-- ITIL 4 Foundations (Expected 9/2024)
+- ITIL 4 Foundations (Expected 10/2024)
 
 <h2>📺 YouTube Videos</h2>
 
