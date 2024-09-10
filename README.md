@@ -1,9 +1,10 @@
 <h1>Hi, I'm Kortney! </h1>
 Mastering GRC & Cybersecurity, One Commit at a Time
 
-<h2>👨‍💻 GRC Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>Incident Response Plan</b>
+  - [Compromised Database Server](https://drive.google.com/file/d/1LF27perUcUg4SWsF62qa8gBpqqEW6lGb/view?usp=sharing)
 - <b>Third Party Risk Management</b>
 - <b>Information Security Policies</b>
 
@@ -13,13 +14,10 @@ Mastering GRC & Cybersecurity, One Commit at a Time
 - Security + (https://imgur.com/a/KDwe5CO)
 - ITIL 4 Foundations (Expected 10/2024)
 
-<h2>📺 YouTube Videos</h2>
-
-- [Tutorial] Active Directory Home Lab(https://www.youtube.com/s)
 
 
 <h2> 🤳 Connect with me:</h2>
 [linkedin]: https://www.linkedin.com/in/kortneymilien/
-[youtube]: https://www.youtube.com/@kortneymilien
+
 
 -->
