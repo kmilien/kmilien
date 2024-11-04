@@ -1,5 +1,5 @@
 <h1>Hi, I'm Kortney! </h1>
-I'm on a cybersecurity learning journey, grow with me!
+I'm on a cybersecurity learning journey. Grow with me!
 
 <h2>👨‍💻 Projects:</h2>
 
