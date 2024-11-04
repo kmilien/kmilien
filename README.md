@@ -1,5 +1,5 @@
 <h1>Hi, I'm Kortney! </h1>
-Mastering GRC & Cybersecurity, One Commit at a Time
+I'm on a cybersecurity learning journey, grow with me!
 
 <h2>👨‍💻 Projects:</h2>
 
