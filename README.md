@@ -12,7 +12,7 @@ Mastering GRC & Cybersecurity, One Commit at a Time
 
 - Cybersecurity Consultant Internship (https://imgur.com/a/my2d7Ve)
 - Security + (https://imgur.com/a/KDwe5CO)
-- ITIL 4 Foundations (Expected 10/2024)
+- ITIL 4 Foundations (Expected 11/2024)
 
 
 
